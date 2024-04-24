@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KEM", "WindowsFormsApp1\KEM.csproj", "{99A4F260-4AB8-40C5-9972-B4BB64DA0AB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99A4F260-4AB8-40C5-9972-B4BB64DA0AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A4F260-4AB8-40C5-9972-B4BB64DA0AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A4F260-4AB8-40C5-9972-B4BB64DA0AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A4F260-4AB8-40C5-9972-B4BB64DA0AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEB32E9E-138C-4FCB-A91E-45552F86C57C}
+	EndGlobalSection
+EndGlobal
